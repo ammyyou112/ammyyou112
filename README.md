@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Science and Machine Learning Projects**
 
-- 🌱 I’m currently learning **Quantum Mechanic, and Quantum Machine Learning**
+- 🌱 I’m currently learning **Quantum Mechanics, and Quantum Machine Learning**
 
 - 👯 I’m looking to collaborate on **full stack AI driven fintech project**
 
